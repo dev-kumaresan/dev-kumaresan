@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### About-me🙂
 * I am currently doing MCA final year in <a href="https://www.psgcas.ac.in/">PSG COLLEGE OF ARTS & SCIENCE</a>,Coimbatore.<br><br>
-  🌱 I’m currently learning, 
+  🌱 I’m currently learning, <br>
