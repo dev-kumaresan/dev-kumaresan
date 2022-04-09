@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About-me🙂
+    * I am currently doing MCA final year in <a href="https://www.psgcas.ac.in/">PSG COLLEGE OF ARTS & SCIENCE</a>,Coimbatore.
