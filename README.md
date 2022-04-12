@@ -20,7 +20,7 @@ Here are some ideas to get you started:
           <a href="https://www.mongodb.com/"><img align="center" src="https://user-images.githubusercontent.com/100152824/162767836-c60ec2aa-8d63-4132-b673-e2a0df1e7ffd.png" height="65" width="65"></a>
            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" src="https://user-images.githubusercontent.com/100152824/162918915-9433a4ee-f477-4849-ba0f-f00d5d8542d5.png" height="60" width="60"></a>
            <a href="https://git-scm.com/"><img align="center" src="https://user-images.githubusercontent.com/100152824/162920041-071a7c78-b267-460c-a89e-3415fb8618a1.png" height="30" width="30"></a></div>
-* Tools Used: <img align="center" src="https://user-images.githubusercontent.com/100152824/163002380-4a98edf1-7d49-4e7e-96e0-6961ed21e1c4.png" height="30" width="40"><img align="center" src="https://user-images.githubusercontent.com/100152824/162920041-071a7c78-b267-460c-a89e-3415fb8618a1.png" height="30" width="30"><img align="center" src="https://user-images.githubusercontent.com/100152824/163003450-fce5fa85-f1b6-4361-b46a-3bfae9cc5f75.png" height="30" width="30">
+* Tools Used: <img align="center" src="https://user-images.githubusercontent.com/100152824/163002380-4a98edf1-7d49-4e7e-96e0-6961ed21e1c4.png" height="30" width="40"><img align="center" src="https://user-images.githubusercontent.com/100152824/162920041-071a7c78-b267-460c-a89e-3415fb8618a1.png" height="30" width="30"><img align="center" src="https://user-images.githubusercontent.com/100152824/163003450-fce5fa85-f1b6-4361-b46a-3bfae9cc5f75.png" height="30" width="35">
 
 
            
