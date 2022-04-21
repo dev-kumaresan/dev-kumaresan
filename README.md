@@ -26,7 +26,7 @@ Here are some ideas to get you started:
           <a href="https://robomongo.org/"><img align="center" src="https://user-images.githubusercontent.com/100152824/163003450-fce5fa85-f1b6-4361-b46a-3bfae9cc5f75.png" height="25" width="30"></a>
 ### Technically I learned:
 * <a href="https://www.cprogramming.com/">C</a>&nbsp;&nbsp;<a href="https://www.w3schools.com/java/">Java</a>&nbsp;&nbsp;<a href="https://www.w3schools.com/html/">HTML</a>&nbsp;&nbsp;<a href="https://www.w3schools.com/js/">JavaScript</a>&nbsp;&nbsp;<a href="https://www.w3schools.com/xml/schema_intro.asp">XSD</a><br>
-* <a href="https://www.w3schools.com/CPP/default.asp">C++</a>&nbsp;&nbsp;<a href="https://docs.python.org/3/tutorial/">Python</a>&nbsp;&nbsp;<a href="https://www.w3schools.com/css/">CSS</a>&nbsp;&nbsp;<a href="https://www.w3schools.com/xml/">XML</a>
+* <a href="https://www.w3schools.com/CPP/default.asp">C++</a>&nbsp;&nbsp;<a href="https://docs.python.org/3/tutorial/">Python</a>&nbsp;&nbsp;<a href="https://www.w3schools.com/css/">CSS</a>&nbsp;&nbsp;<a href="https://www.w3schools.com/xml/">XML</a>>&nbsp;&nbsp;<a href="https://www.w3schools.com/mySQl/default.asp">MySQL</a>
            
 
 
