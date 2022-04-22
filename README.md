@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About-me:
-* I am currently doing MCA final year in <a href="https://www.psgcas.ac.in/">PSG COLLEGE OF ARTS & SCIENCE</a>,Coimbatore.<br>
+* I am currently doing MCA final year in <a href="https://www.psgcas.ac.in/">PSG COLLEGE OF ARTS & SCIENCE</a>,Coimbatore.<br><br>
 * I’m currently learning:<div>
          <a href="https://www.mongodb.com/">MongoDB</a>,
          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>,
