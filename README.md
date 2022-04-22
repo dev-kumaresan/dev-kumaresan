@@ -20,7 +20,8 @@ Here are some ideas to get you started:
          <a href="https://www.mongodb.com/">MongoDB</a>,
          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>,
          <a href="https://git-scm.com/">git</a>,
-         <a href="https://www.shellscript.sh/">shell-scripting</a> ...</div><br>
+         <a href="https://www.shellscript.sh/">shell-scripting</a>,
+         <a href="https://www.oracle.com/in/database/">Oracle</a> ...</div><br>
 * Tools I have to Use:<div><a href="https://code.visualstudio.com/docs"><img align="center" src="https://user-images.githubusercontent.com/100152824/163002380-4a98edf1-7d49-4e7e-96e0-6961ed21e1c4.png" height="25" width="35"></a>
           <a href="https://git-scm.com/"><img align="center" src="https://user-images.githubusercontent.com/100152824/162920041-071a7c78-b267-460c-a89e-3415fb8618a1.png" height="25" width="25"></a>
           <a href="https://robomongo.org/"><img align="center" src="https://user-images.githubusercontent.com/100152824/163003450-fce5fa85-f1b6-4361-b46a-3bfae9cc5f75.png" height="25" width="30"></a>
