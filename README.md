@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Pinned Repositories:
+* <a href="https://github.com/dev-kumaresan/express-from-scratch">express-from-scratch</a><br>
+* <a href="https://github.com/dev-kumaresan/css-workflows">css-workflows</a><br>
+* <a href="https://github.com/dev-kumaresan/HTML-CSS-JS">HTML-CSS-JS</a><br>
+* <a href="https://github.com/dev-kumaresan/shell-scripting">shell-scripting</a>
+### Contributions:
+![my-github-contributions](https://user-images.githubusercontent.com/100152824/164895197-68319e1c-7e8a-4e99-b97c-6358094b4351.jpg)
 ### About-me:
 * I am currently doing MCA final year in <a href="https://www.psgcas.ac.in/">PSG COLLEGE OF ARTS & SCIENCE</a>,Coimbatore.<br><br>
 * I’m currently learning:<div>
@@ -40,10 +47,3 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com/">ExpressJS</a> ...
 ### Refer me:
 🔗 https://linktr.ee/kumaresanl         
-### Pinned Repositories:
-* <a href="https://github.com/dev-kumaresan/express-from-scratch">express-from-scratch</a><br>
-* <a href="https://github.com/dev-kumaresan/css-workflows">css-workflows</a><br>
-* <a href="https://github.com/dev-kumaresan/HTML-CSS-JS">HTML-CSS-JS</a><br>
-* <a href="https://github.com/dev-kumaresan/shell-scripting">shell-scripting</a>
-### Contributions:
-![my-github-contributions](https://user-images.githubusercontent.com/100152824/164895197-68319e1c-7e8a-4e99-b97c-6358094b4351.jpg)
