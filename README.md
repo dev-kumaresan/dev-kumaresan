@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 * <a href="https://github.com/dev-kumaresan/css-workflows">css-workflows</a><br>
 * <a href="https://github.com/dev-kumaresan/HTML-CSS-JS">HTML-CSS-JS</a><br>
 * <a href="https://github.com/dev-kumaresan/shell-scripting">shell-scripting</a>
-<img src="img/my-github-contributions.jpg">
+![my-github-contributions](https://user-images.githubusercontent.com/100152824/164895197-68319e1c-7e8a-4e99-b97c-6358094b4351.jpg)
