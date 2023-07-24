@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ### Contributions:
 ![my-github-contributions](https://user-images.githubusercontent.com/100152824/164895197-68319e1c-7e8a-4e99-b97c-6358094b4351.jpg)
 ### Pinned Repositories:
+
+* <a href="https://github.com/dev-kumaresan/Full-Stack-QA-Automation-Testing">Full Stack QA Automation Testing</a><br>
 * <a href="https://github.com/dev-kumaresan/express-from-scratch">express-from-scratch</a><br>
 * <a href="https://github.com/dev-kumaresan/css-workflows">css-workflows</a><br>
 * <a href="https://github.com/dev-kumaresan/HTML-CSS-JS">HTML-CSS-JS</a><br>
