@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 * <a href="https://github.com/dev-kumaresan/Full-Stack-QA-Automation-Testing">Full Stack QA Automation Testing</a><br>
 * <a href="https://github.com/dev-kumaresan/Insta-Scrapping">Web Scrapping for Instagram Insights (Collecting Information)</a>
+* <a href="https://github.com/dev-kumaresan/SMI-Dependency">SMI-dependency</a>
 <!-- * <a href="https://github.com/dev-kumaresan/express-from-scratch">express-from-scratch</a><br>
 * <a href="https://github.com/dev-kumaresan/css-workflows">css-workflows</a><br>
 * <a href="https://github.com/dev-kumaresan/HTML-CSS-JS">HTML-CSS-JS</a><br>
