@@ -25,15 +25,21 @@ Here are some ideas to get you started:
 * <a href="https://github.com/dev-kumaresan/css-workflows">css-workflows</a><br>
 * <a href="https://github.com/dev-kumaresan/HTML-CSS-JS">HTML-CSS-JS</a><br>
 * <a href="https://github.com/dev-kumaresan/shell-scripting">shell-scripting</a> -->
-### About-me:
-* MCA graduate, <a href="https://www.psgcas.ac.in/">PSG COLLEGE OF ARTS & SCIENCE</a>,Coimbatore.<br><br>
-* I’m currently learning:<div>
-         <a href="#">Core-Java</a>
+# Contact :
+* Email :- <a href="mailto:dev.kumaresanl@gmail.com">click to mail me</a>
+* Linkedin : <a href="https://www.linkedin.com/in/kumaresan-l-9209921b1/">Kumaresan L</a>
+* Contact : +918610450571
+* Whatsapp : <a aria-label="Chat on WhatsApp" href="https://wa.me/+917339395354"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" /><a/>
        
-* Tools or Frameworks I have to Use:<div>1.Junit<br>2.TestNG<br>3.Cucumber
-* Language : Core-Java
-* Building Tool : Maven
-* Automation Tool : Selenium WebDriver
+# Skills -
+* Programming Language : Core-Java
+* Testing Tools : Selenium WebDriver, Postman API, RestAssured
+* Testing Frameworks : Junit, TestNG, Cucumber
+* Build Tool : Maven
+* Database : MySQL
+* Version Control : Git/Github
+* Project Management : Agile/JIRA Tool
+
 <!-- ### Technologies I learned:
 * <a href="https://www.cprogramming.com/">C</a>,
 <a href="https://www.w3schools.com/java/">Java</a>,
