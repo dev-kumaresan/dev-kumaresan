@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 * Linkedin : <a href="https://www.linkedin.com/in/kumaresan-l-9209921b1/">Kumaresan L</a>
 * Contact : +918610450571
 * Whatsapp : <a href="https://wa.me/+917339395354">ChatWithMe</a>
-* Service available : Website Automation Testing/Functional Testing
+* Service available : Website Automation/Functional Testing
        
 # Skills -
 * Programming Language : Core-Java
