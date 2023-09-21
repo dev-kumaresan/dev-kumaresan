@@ -1,4 +1,4 @@
-### Hello there 👋 I am Kumaresan!
+# Hello there 👋 I am Kumaresan!
 
 <!--
 **dev-kumaresan/dev-kumaresan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- ### Contributions:
  ![my-github-contributions](https://user-images.githubusercontent.com/100152824/164895197-68319e1c-7e8a-4e99-b97c-6358094b4351.jpg) -->
-### Pinned Repositories:
+# Pinned Repositories:
 
 * <a href="https://github.com/dev-kumaresan/Full-Stack-QA-Automation-Testing">Full Stack QA Automation Testing</a><br>
 * <a href="https://github.com/dev-kumaresan/Insta-Scrapping">Web Scrapping for Instagram Insights (Collecting Information)</a>
@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 * Email :- <a href="mailto:dev.kumaresanl@gmail.com">click to mail me</a>
 * Linkedin : <a href="https://www.linkedin.com/in/kumaresan-l-9209921b1/">Kumaresan L</a>
 * Contact : +918610450571
-* Whatsapp : <a aria-label="Chat on WhatsApp" href="https://wa.me/+917339395354"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" /><a/>
+* Whatsapp : <a aria-label="ChatWithMe" href="https://wa.me/+917339395354"><a/>
+* Service available : Website Automation Testing/Functional Testing
        
 # Skills -
 * Programming Language : Core-Java
