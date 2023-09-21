@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 * <a href="https://github.com/dev-kumaresan/HTML-CSS-JS">HTML-CSS-JS</a><br>
 * <a href="https://github.com/dev-kumaresan/shell-scripting">shell-scripting</a> -->
 # Contact :
-* Email :- <a href="mailto:dev.kumaresanl@gmail.com">click to mail me</a>
+* Email :- <a href="mailto:dev.kumaresanl@gmail.com">MailMe</a>
 * Linkedin : <a href="https://www.linkedin.com/in/kumaresan-l-9209921b1/">Kumaresan L</a>
 * Contact : +918610450571
 * Whatsapp : <a href="https://wa.me/+917339395354">ChatWithMe</a>
