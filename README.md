@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * Email :- <a href="mailto:dev.kumaresanl@gmail.com">click to mail me</a>
 * Linkedin : <a href="https://www.linkedin.com/in/kumaresan-l-9209921b1/">Kumaresan L</a>
 * Contact : +918610450571
-* Whatsapp : <a aria-label="ChatWithMe" href="https://wa.me/+917339395354"><a/>
+* Whatsapp : <a href="https://wa.me/+917339395354">ChatWithMe</a>
 * Service available : Website Automation Testing/Functional Testing
        
 # Skills -
