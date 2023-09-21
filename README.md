@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * Contact : +918610450571
 * Whatsapp : <a href="https://wa.me/+917339395354">ChatWithMe</a>
 * Open to Work : Website Automation Testing,Regression Testing
-* Resume : <a href="https://www.dropbox.com/scl/fi/3d0n5b4nqvakcpu85blng/Kumaresan.L.pdf?rlkey=hdnr4v23pom8yskpgb7pcnd8f&dl=1">Download my Resume</a>
+* Resume : <a href="https://www.dropbox.com/scl/fi/3d0n5b4nqvakcpu85blng/Kumaresan.L.pdf?rlkey=hdnr4v23pom8yskpgb7pcnd8f&dl=1">View/Download</a>
        
 # Skills -
 * Programming Language : Core-Java
