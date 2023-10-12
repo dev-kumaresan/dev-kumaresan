@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 * Project Management : Agile/JIRA Tool
 
 <!-- ### Technologies I learned:
-* <a href="https://www.cprogramming.com/">C</a>,
+* 
+<a href="https://www.cprogramming.com/">C</a>,
 <a href="https://www.w3schools.com/java/">Java</a>,
 <a href="https://www.w3schools.com/html/">HTML</a>,
 <a href="https://www.w3schools.com/js/">JavaScript</a>,
