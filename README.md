@@ -4,4 +4,4 @@
 # Total Contributions 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-kumaresan)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-kumaresan&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-kumaresan&show_icons=true&count_private=true&theme=radical)
