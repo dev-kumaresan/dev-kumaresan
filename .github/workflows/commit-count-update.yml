@@ -1,0 +1,29 @@
+name: Update Commit Count
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-commit-count:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get the number of commits
+        run: |
+          COMMIT_COUNT=$(git rev-list --count HEAD)
+          echo "Commit count: $COMMIT_COUNT"
+          echo "COMMIT_COUNT=$COMMIT_COUNT" >> $GITHUB_ENV
+
+      - name: Update README.md with commit count
+        run: |
+          sed -i "s/Commit count: [0-9]*/Commit count: $COMMIT_COUNT/" README.md
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "Update commit count"
+          git push
