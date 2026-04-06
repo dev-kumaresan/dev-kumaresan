@@ -1,2 +1,2 @@
 # Hi, I'm Kumaresan L 👋
-![GitHub Contributions](https://github.com/USERNAME.png?size=100) 
+![GitHub Contributions](https://github.com/dev-kumaresan.png?size=100) 
