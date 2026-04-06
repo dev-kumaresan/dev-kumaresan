@@ -23,7 +23,7 @@ jobs:
 
       - name: Update the README file with the commit count
         run: |
-          sed -i 's/Commit count: [0-9]*/Commit count: $COMMIT_COUNT/' README.md
+          sed -i "s/Commit count: [0-9]*/Commit count: $COMMIT_COUNT/" README.md
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add README.md
