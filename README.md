@@ -1,5 +1,5 @@
-# Hi, I'm Kumaresan L 👋 ![Profile Views](https://komarev.com/ghpvc/?username=dev-kumaresan&color=blueviolet&style=for-the-badge)
-
+# Hi, I'm Kumaresan L 👋 
+![Profile Views](https://komarev.com/ghpvc/?username=dev-kumaresan&color=grey&style=for-the-badge)
 # My GitHub Contributions:
 ![Streak](https://streak-stats.demolab.com/?user=dev-kumaresan&theme=tokyonight)
 
