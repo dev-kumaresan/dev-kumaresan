@@ -6,4 +6,4 @@
 # Activity Graph:
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-kumaresan&theme=react-dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-kumaresan&show_icons=true&theme=tokyonight&hide_border=true)
+
