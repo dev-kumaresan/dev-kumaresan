@@ -6,5 +6,6 @@
 # Activity Graph:
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-kumaresan&theme=react-dark)
 
+# Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-kumaresan&color=blueviolet&style=for-the-badge)
 
