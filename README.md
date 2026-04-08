@@ -7,4 +7,4 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-kumaresan&theme=react-dark)
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dev-kumaresan&theme=react-dark)
+
