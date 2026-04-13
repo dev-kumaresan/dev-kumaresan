@@ -5,7 +5,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dev-kumaresan&theme=github_dark_dimmed)
 
 # Activity Graph:
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-kumaresan&theme=github)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-kumaresan&theme=cache_seconds=10)
 
 
 
