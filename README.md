@@ -4,7 +4,7 @@
 # My GitHub Contributions:
 ![GitHub Streak](https://streak-stats.demolab.com?user=dev-kumaresan&theme=github)
 # Activity Graph:
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-kumaresan&theme=tokyonight)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-kumaresan&theme=dark)
 
 
 
